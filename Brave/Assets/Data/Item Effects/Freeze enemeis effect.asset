@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abca6adf92721d340888f0258cebe79b, type: 3}
+  m_Name: Freeze enemeis effect
+  m_EditorClassIdentifier: 
+  effectDescription: "\u5728\u751F\u547D\u5C0F\u4E8E\u6700\u5927\u751F\u547D\u768410%\u51BB\u7ED3\u654C\u4EBA2\u79D2\n\u3010\u51B7\u5374\u65F6\u95F45\u79D2\u3011\n"
+  duration: 2

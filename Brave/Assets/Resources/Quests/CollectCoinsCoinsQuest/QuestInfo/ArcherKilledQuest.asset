@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6193b629b71c20e409103296ddc44b7b, type: 3}
+  m_Name: ArcherKilledQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: ArcherKilledQuest
+  displayName: "\u5F13\u7BAD\u624B\u51FB\u6740"
+  questPrerequisites:
+  - {fileID: 11400000, guid: 99eb9975f84af7f4ba764ffeb1ca8df3, type: 2}
+  questStepPrefabs:
+  - {fileID: 2703145597102353032, guid: 7f8ff09f3fe00154c8c00c5d69baad63, type: 3}
+  goldReward: 0
+  possibleDrop:
+  - {fileID: 11400000, guid: 162795dd12ecf5142a34ce86708a573e, type: 2}

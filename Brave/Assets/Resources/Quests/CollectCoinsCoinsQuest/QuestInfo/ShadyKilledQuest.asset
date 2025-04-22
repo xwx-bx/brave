@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6193b629b71c20e409103296ddc44b7b, type: 3}
+  m_Name: ShadyKilledQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: ShadyKilledQuest
+  displayName: "\u6697\u5F71\u51FB\u6740"
+  questPrerequisites:
+  - {fileID: 11400000, guid: cabdcb6451bdf174bbefd6c6d65b4697, type: 2}
+  questStepPrefabs:
+  - {fileID: 1716492832234770473, guid: 7908e95510ca0804d80cb482f050e653, type: 3}
+  goldReward: 0
+  possibleDrop:
+  - {fileID: 11400000, guid: 6ef52007859d2fb4492529d1445bef9e, type: 2}

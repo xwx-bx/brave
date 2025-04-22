@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4b30b4081c7173429720dafa6c61e00, type: 3}
+  m_Name: Dracula's sword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: "\u5FB7\u53E4\u62C9\u4E4B\u5251"
+  icon: {fileID: -1944902997, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  itemId: b19d68b8c41495d47b41c094c177f1f1
+  dropChance: 10
+  equipmentType: 0
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 1074194c5d52f01449f1f81d4b0a8441, type: 2}
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 15
+  critChance: 15
+  critPower: 0
+  health: 0
+  armor: 0
+  evasion: 0
+  magicResistance: 25
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: 2e312789d084659438bb38abdae5b392, type: 2}
+    stackSize: 2
+  - data: {fileID: 11400000, guid: 6bcbe3e8f4db53544b0e2fe920d01143, type: 2}
+    stackSize: 4
+  - data: {fileID: 11400000, guid: b03c8b1fa2d8cb8478f24a8beef0c6e3, type: 2}
+    stackSize: 1

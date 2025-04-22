@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6193b629b71c20e409103296ddc44b7b, type: 3}
+  m_Name: CollectCoinsQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: CollectCoinsQuest
+  displayName: "\u91D1\u5E01\u6536\u96C6"
+  questPrerequisites: []
+  questStepPrefabs:
+  - {fileID: 6465363505542883453, guid: 6a95298fb508d4b44b7a7fdf21217262, type: 3}
+  goldReward: 0
+  possibleDrop:
+  - {fileID: 11400000, guid: 2255756f87ff48e498d30105dd7adefd, type: 2}
+  - {fileID: 11400000, guid: 2255756f87ff48e498d30105dd7adefd, type: 2}
